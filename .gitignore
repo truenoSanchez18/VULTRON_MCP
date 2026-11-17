@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.mcp.json
+*.local.json
+*.backup-*
+*.log
+coverage/
+data/
+biblioteca/
+*.mp4
+*.mov
+*.wav
+*.aep
+*.prproj
+test-output/

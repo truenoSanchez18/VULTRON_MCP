@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "vultron": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["C:/path/to/vultron-connector/bin/vultron.mjs"],
+      "env": {"VULTRON_HOME": "C:/path/to/existing/vultron-mcp"}
+    }
+  }
+}
